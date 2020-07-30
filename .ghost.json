@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "http://localhost:2368",
-    "contentApiKey": "28575ee7f0b0f3a2c2fcc808bc"
+    "apiUrl": "http://theryss.gq",
+    "contentApiKey": "4091fd32a97ff705e764a235d8"
   },
   "production": {
-    "apiUrl": "http://localhost:2368",
-    "contentApiKey": "28575ee7f0b0f3a2c2fcc808bc"
+    "apiUrl": "http://theryss.gq",
+    "contentApiKey": "4091fd32a97ff705e764a235d8"
   }
 }
